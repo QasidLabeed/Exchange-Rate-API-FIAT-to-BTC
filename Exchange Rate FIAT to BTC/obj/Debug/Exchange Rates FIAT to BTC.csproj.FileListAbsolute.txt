@@ -1,0 +1,41 @@
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\Exchange Rate FIAT to BTC.exe.config
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\Exchange Rate FIAT to BTC.exe
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\Exchange Rate FIAT to BTC.pdb
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\BigInteger.dll
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\BigRationalLibrary.dll
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\crypto.dll
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\EdjCase.JsonRpc.Client.dll
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\EdjCase.JsonRpc.Core.dll
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\Nethereum.ABI.dll
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\Nethereum.Hex.dll
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\Nethereum.JsonRpc.Client.dll
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\Nethereum.RPC.dll
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\Nethereum.Web3.dll
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\System.AppContext.dll
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\System.Console.dll
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\System.IO.Compression.dll
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\System.Net.Http.dll
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\System.Net.Sockets.dll
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\crypto.pdb
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\crypto.xml
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\Nethereum.ABI.xml
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\Nethereum.Hex.xml
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\Nethereum.RPC.xml
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\Nethereum.Web3.xml
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\obj\Debug\Exchange Rates FIAT to BTC.csproj.CoreCompileInputs.cache
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\obj\Debug\Exchange Rate FIAT to BTC.exe
+C:\Users\Qasid Labeed\Documents\Visual Studio 2017\Projects\Exchange Rate FIAT to BTC\Exchange Rate FIAT to BTC\obj\Debug\Exchange Rate FIAT to BTC.pdb

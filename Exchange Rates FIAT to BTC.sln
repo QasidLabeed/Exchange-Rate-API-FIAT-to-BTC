@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exchange Rates FIAT to BTC", "Exchange Rate FIAT to BTC\Exchange Rates FIAT to BTC.csproj", "{79B066E5-E2C7-498E-A92C-2E104EEEC682}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79B066E5-E2C7-498E-A92C-2E104EEEC682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B066E5-E2C7-498E-A92C-2E104EEEC682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B066E5-E2C7-498E-A92C-2E104EEEC682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B066E5-E2C7-498E-A92C-2E104EEEC682}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7356E4E5-8E72-4707-AC80-80E781CB3689}
+	EndGlobalSection
+EndGlobal
